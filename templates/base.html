@@ -43,17 +43,27 @@
                 <img src="/media/vim.gif" alt="Edited with Vim and why you should try Learning vim!" style="height:31px;width:88px;max-height:none;max-width:none;"></a>	
       	<a href="https://creativecommons.org/licenses/by-sa/4.0/">
 	        <img src="/media/cc-by-sa.gif" alt="CC BY SA" style="height:31px;width:88px;max-height:none;max-width:none;"></a>
-	<a href="https://spyware.neocities.org/articles/chrome.html" alt="Chrome is evil!">
+        <script type="text/javascript">
+        var gcurls = [
+            "https://spyware.neocities.org/articles/chrome.html",
+            "https://www.gnu.org/proprietary/malware-google.html",
+            "https://www.consumerwatchdog.org/blog/googles-dominance",
+            "https://www.visualcapitalist.com/this-chart-reveals-googles-true-dominance-over-the-web",
+            "https://www.techspot.com/news/91390-google-chrome-94-arrives-controversial-idle-detection-api.html"
+        ];
+        function fg() {var url = gcurls[Math.floor(Math.random()*gcurls.length)];window.location = url;}
+        </script>
+        <a href="#" onClick="fg(); return false;">
 	        <img src="/media/chrome-is-evil.gif" alt="Chrome is Evil!"style="height:31px;width:88px;max-height:none;max-width:none;"></a>
         <script type="text/javascript">
-        var urls = [
+        var msurls = [
             "https://www.gnu.org/proprietary/malware-microsoft.html",
             "https://programmerbear.com/why-microsoft-is-evil/",
             "https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp"
         ];
-        function goSomewhere() {var url = urls[Math.floor(Math.random()*urls.length)];window.location = url;}
+        function fms() {var url = msurls[Math.floor(Math.random()*msurls.length)];window.location = url;}
         </script>
-        <a href="#" onClick="goSomewhere(); return false;">
+        <a href="#" onClick="fms(); return false;">
                 <img src="/media/stop-ms.gif" alt="Stop Microsoft!" style="height:31px;width:88px;max-height:none;max-width:none;"></a>
         </center>
 	      <!-- <a href="https://gnulinuxindia.org/direct.html?name=justsaumit&dir=prev">↩ </a> -->
@@ -69,5 +79,4 @@
 
     </section>
   
-
 </body></html>
