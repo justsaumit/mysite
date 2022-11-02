@@ -55,6 +55,11 @@ hr {
     color: grey;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 ul.sq {
   list-style-type: square;
 }
