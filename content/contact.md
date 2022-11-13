@@ -21,5 +21,11 @@ How to reach me?
 `curl -sL https://draconyan.xyz/justsaumit.gpg | gpg --import`
 * Fingerprint: `8639 5E99 314F 4E38 2517  AF97 6558 C915 A20C DD93`
 * All legitimate emails from me will be signed with my GPG key, discard any that aren't.
-<br />
-<br />
+
+
+Places where you can Find me
+----------------
+
+* [Github](https://github.com/justsaumit)
+* [Linkedin](https://www.linkedin.com/in/justsaumit)
+* [Twitter](https://twitter.com/justsaumit) 
