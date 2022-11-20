@@ -10,7 +10,7 @@ How to reach me?
 
 *   Dont. I am bad at conversations, jkjk.
 *   If you still wish to talk to me, here are my contacts:
-    *   Email: _justsaumit@protonmail.com_ ([gpg](/justsaumit.gpg)) [[mailto](mailto:justsaumit@protonmail.com)]
+    *   Email: _justsaumit@protonmail.com_ ([gpg](/pubkey.justsaumit@protonmail.com.asc)) [[mailto](mailto:justsaumit@protonmail.com)] **or better yet** <br>&emsp;&emsp;&emsp;_justsaumit@draconyan.xyz_ &ensp;([gpg](/justsaumit.gpg)) [[mailto](mailto:justsaumit@draconyan.xyz)] 
     *   Telegram: [@justsaumit](https://t.me/justsaumit)
     *   Matrix: _@justsaumit:matrix.org_
     *   IRC: _justsaumit@libera.chat_
@@ -28,4 +28,9 @@ Places where you can Find me
 
 * [Github](https://github.com/justsaumit)
 * [Linkedin](https://www.linkedin.com/in/justsaumit)
-* [Twitter](https://twitter.com/justsaumit) 
+* [~~Twitter~~](https://twitter.com/justsaumit) 
+
+### Fediverse (Federated Universe - Free, Open-Source and Decentralized platforms)
+
+*  [Mastodon](https://mastodon.social/@justsaumit) (mastodon.social [instance](https://joinmastodon.org/servers))
+*  [Pixelfed](https://pixelfed.social/justsaumit)&emsp;(pixelfed.social [instance](https://pixelfed.org/servers))
